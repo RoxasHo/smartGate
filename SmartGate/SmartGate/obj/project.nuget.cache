@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3lY/o2y6OGmLD5iYZMAhpos6O/PQlBMfnEfUxsxB5u7aoBJbatJdlYPOZmUCAFILFlL2PDRn7nMKJa4ymtYsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fung Ke Yun\\OneDrive\\Desktop\\TARUC\\BAIT2123 (IoT)\\SmartGate\\SmartGate\\SmartGate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fung Ke Yun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Fung Ke Yun\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Fung Ke Yun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Fung Ke Yun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

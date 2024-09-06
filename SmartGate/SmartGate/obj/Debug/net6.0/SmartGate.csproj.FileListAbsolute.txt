@@ -1,0 +1,4 @@
+C:\Users\Fung Ke Yun\OneDrive\Desktop\TARUC\BAIT2123 (IoT)\SmartGate\SmartGate\obj\Debug\net6.0\SmartGate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fung Ke Yun\OneDrive\Desktop\TARUC\BAIT2123 (IoT)\SmartGate\SmartGate\obj\Debug\net6.0\SmartGate.AssemblyInfoInputs.cache
+C:\Users\Fung Ke Yun\OneDrive\Desktop\TARUC\BAIT2123 (IoT)\SmartGate\SmartGate\obj\Debug\net6.0\SmartGate.AssemblyInfo.cs
+C:\Users\Fung Ke Yun\OneDrive\Desktop\TARUC\BAIT2123 (IoT)\SmartGate\SmartGate\obj\Debug\net6.0\SmartGate.csproj.CoreCompileInputs.cache
